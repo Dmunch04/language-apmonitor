@@ -2,7 +2,7 @@
   "name": "language-apmonitor",
   "description": "Syntax highlighting for APMonitor in Atom",
   "repository": "https://github.com/spejamchr/language-apmonitor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
