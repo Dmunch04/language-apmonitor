@@ -1,0 +1,4 @@
+'.text.apmonitor':
+  'editor':
+    'autoIndentOnPaste': false
+    'commentStart': '# '
