@@ -2,6 +2,7 @@
 'name': 'APMonitor'
 'fileTypes': [
   'apm'
+  'xax'
 ]
 'firstLineMatch': '^#!/.*\\bapm\\b'
 'patterns': [
